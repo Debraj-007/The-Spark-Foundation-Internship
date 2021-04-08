@@ -1,4 +1,4 @@
-# The-Spark-Foundation-Internship
+# The-Sparks-Foundation-Internship
 ## TSF_Data Science &amp; Business Analytics Internship
 ## Task 1
   GRIP APR2021
